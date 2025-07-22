@@ -109,7 +109,7 @@ I’m Viktor. I write code, explore new tech, and try to make each project bette
     width="400" height="200"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolbacer&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&hide=Jupyter%20Notebook,dart,css,Dockerfile,Cmake&theme=dracula"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolbacer&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&hide_border=true&hide=Jupyter%20Notebook,dart,css,Dockerfile,Cmake&theme=dracula"
     alt="Top languages"
     width="400" height="200"
   />
