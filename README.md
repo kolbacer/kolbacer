@@ -117,7 +117,6 @@ I’m Viktor. I write code, explore new tech, and try to make each project bette
 
 ## 📫 Contact
 
-[<img alt="github" src="https://img.shields.io/badge/kolbacer-black?style=for-the-badge&logo=github&labelColor=black&color=%23181717">
-](https://github.com/kolbacer)
-[<img alt="telegram" src="https://img.shields.io/badge/%40k0lbacer-black?style=for-the-badge&logo=telegram&labelColor=black&color=%2326A5E4">](https://t.me/k0lbacer)
-[<img alt="gmail" src="https://img.shields.io/badge/v.scherevskii%40gmail.com-black?style=for-the-badge&logo=gmail&labelColor=black&color=%23EA4335">](mailto:v.scherevskii@gmail.com)
+[![github](https://img.shields.io/badge/kolbacer-black?style=for-the-badge&logo=github&labelColor=black&color=%23181717)](https://github.com/kolbacer)
+[![telegram](https://img.shields.io/badge/%40k0lbacer-black?style=for-the-badge&logo=telegram&labelColor=black&color=%2326A5E4)](https://t.me/k0lbacer)
+[![gmail](https://img.shields.io/badge/v.scherevskii%40gmail.com-black?style=for-the-badge&logo=gmail&labelColor=black&color=%23EA4335)](mailto:v.scherevskii@gmail.com)
