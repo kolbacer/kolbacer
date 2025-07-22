@@ -2,13 +2,11 @@
   <img src="./images/header.png" alt="profile-header" />
 </div>
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 I’m Viktor. I write code, explore new tech, and try to make each project better than the last.
 
----
-
-### ⚒️ Tech Stack
+## ⚒️ Tech Stack
 
 <table>
   <tr>
@@ -28,26 +26,17 @@ I’m Viktor. I write code, explore new tech, and try to make each project bette
   <tr>
     <td><strong>Frameworks &amp; Libraries</strong></td>
     <td>
-      <table style="margin: 0; line-height: 1.2;">
-        <tr>
-          <td><u>Backend</u></td>
-          <td>
+      <ins>Backend:</ins>&nbsp;&nbsp;
             <img alt="NestJS"    src="https://img.shields.io/badge/NestJS-black?style=flat-square&logo=nestjs&logoColor=%23E0234E" />
             <img alt="Spring"    src="https://img.shields.io/badge/Spring-black?style=flat-square&logo=spring" />
             <img alt="Fastify"   src="https://img.shields.io/badge/Fastify-black?style=flat-square&logo=fastify" />
             <img alt="Express"   src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express" />
             <img alt="FastAPI"   src="https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi" />
-          </td>
-        </tr>
-        <tr>
-          <td><u>Frontend</u></td>
-          <td>
+      <br>
+      <ins>Frontend:</ins>&nbsp;
             <img alt="Angular"   src="https://img.shields.io/badge/Angular-black?style=flat-square&logo=angular&logoColor=de002d" />
             <img alt="React"     src="https://img.shields.io/badge/React-black?style=flat-square&logo=react" />
             <img alt="Vue"       src="https://img.shields.io/badge/Vue-black?style=flat-square&logo=vuedotjs" />
-          </td>
-        </tr>
-      </table>
     </td>
   </tr>
   <tr>
@@ -88,13 +77,11 @@ I’m Viktor. I write code, explore new tech, and try to make each project bette
   </tr>
 </table>
 
----
-
-### 🎓 Education
+## 🎓 Education
 
 <table>
   <tr>
-    <td width="30">
+    <td width="60">
       <img src="./images/spbu-logo.png" width="35" style="vertical-align: middle;" />
     </td>
     <td>
@@ -103,7 +90,7 @@ I’m Viktor. I write code, explore new tech, and try to make each project bette
     </td>
   </tr>
   <tr>
-    <td width="35">
+    <td width="60">
       <img src="./images/spbu-logo.png" width="35" style="vertical-align: middle;" />
     </td>
     <td>
@@ -113,45 +100,22 @@ I’m Viktor. I write code, explore new tech, and try to make each project bette
   </tr>
 </table>
 
----
+## 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
-<div style="
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 7%;
-  padding: 5px;
-  max-width: 100%;
-  white-space: nowrap;
-">
+<p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kolbacer&theme=dracula"
-    alt="summary"
-    style="
-      height: 25vw;
-      max-height: 200px;
-      width: auto;
-      outline: 1px solid #e4e2e2;
-      outline-offset: -1px;
-      border-radius: 5px;
-    "
-  >
+    alt="GitHub summary"
+    width="400" height="200"
+  />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolbacer&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&hide=Jupyter%20Notebook,dart,css,Dockerfile,Cmake&theme=dracula"
-    alt="languages"
-    style="
-      height: 25vw;
-      max-height: 200px;
-      width: auto;
-    "
-  >
-</div>
+    alt="Top languages"
+    width="400" height="200"
+  />
+</p>
 
----
-
-### 📫 Contact
+## 📫 Contact
 
 [<img alt="github" src="https://img.shields.io/badge/kolbacer-black?style=for-the-badge&logo=github&labelColor=black&color=%23181717">
 ](https://github.com/kolbacer)
